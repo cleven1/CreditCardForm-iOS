@@ -1,4 +1,4 @@
-osx_image: xcode8
+osx_image: xcode8.2
 language: objective-c
 xcode_workspace: Example/Demo2-CreditCardFormLibarary/Demo.xcworkspace
 xcode_sdk: iphonesimulator10.0
