@@ -1,0 +1,12 @@
+osx_image: xcode8
+language: objective-c
+xcode_workspace: Example/Demo2-CreditCardFormLibarary.xcworkspace
+xcode_sdk: iphonesimulator10.0
+xcode_scheme: Demo2-CreditCardFormLibarary
+podfile: Example/Demo2-CreditCardFormLibarary/Podfile
+on:
+  repo: orazz/CreditCardForm-iOS
+  tags: true
+before_install:
+- gem install cocoapods
+- pod install --project-directory=Example/Demo2-CreditCardFormLibarary/
