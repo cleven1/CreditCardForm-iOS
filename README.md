@@ -35,6 +35,12 @@ pod "CreditCardForm"
 
 [Oraz Atakishi](https://github.com/orazz), orazz.tm@gmail.com
 
+## 3rd party frameworks 
+
+[CreditCardValidator](https://github.com/vitkuzmenko/CreditCardValidator)
+
+[AKMaskField](https://github.com/artemkrachulov/AKMaskField)
+
 ## License
 
 CreditCardForm is available under the MIT license. See the LICENSE file for more info.
